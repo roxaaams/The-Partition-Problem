@@ -6,3 +6,7 @@ C:\Users\aaa\documents\visual studio 2010\Projects\The Partition Problem\The Par
 C:\Users\aaa\documents\visual studio 2010\Projects\The Partition Problem\The Partition Problem\obj\x86\Debug\The Partition Problem.pdb
 C:\Users\aaa\documents\visual studio 2010\Projects\The Partition Problem\The Partition Problem\bin\Debug\The Partition Problem.exe
 C:\Users\aaa\documents\visual studio 2010\Projects\The Partition Problem\The Partition Problem\bin\Debug\The Partition Problem.pdb
+C:\Users\aaa\Documents\GitHub\The-Partition-Problem\The Partition Problem\obj\x86\Debug\The Partition Problem.exe
+C:\Users\aaa\Documents\GitHub\The-Partition-Problem\The Partition Problem\obj\x86\Debug\The Partition Problem.pdb
+C:\Users\aaa\Documents\GitHub\The-Partition-Problem\The Partition Problem\bin\Debug\The Partition Problem.exe
+C:\Users\aaa\Documents\GitHub\The-Partition-Problem\The Partition Problem\bin\Debug\The Partition Problem.pdb
